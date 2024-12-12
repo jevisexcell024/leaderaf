@@ -1,0 +1,584 @@
+@media (min-width: 1200px) {
+  .hideOnMobile {
+    /* display: none; */
+  }
+  .menu-button {
+    display: block;
+    display: none;
+  }
+}
+@media (max-width: 600px) {
+
+  .sidebar {
+    width: 90%;
+  }
+
+  /* .movin-up-in{
+    font-size: .6rem;
+  } */
+  /* nav li{
+      display: none;
+    } */
+  .hideOnMobile {
+    display: none;
+  }
+  .afrique-container-info {
+    margin-left: -40px;
+  }
+  .afrique-container-info .inspire {
+    font-size: 2.2rem;
+  }
+  .afrique-container-info .txt {
+    font-size: 2.2rem;
+  }
+.differ  li a{
+  color: rgb(255, 255, 255);
+
+}
+.sidebar li a{
+  color: #fff;
+}
+  .info {
+    margin-left: -46px;
+    font-size: 1.2rem;
+  }
+  .info-text{
+    font-size:1.3rem;
+    width: 470px;
+  }
+  .what-we-do {
+    min-height: 120vh;
+    width: 98%;
+  }
+  .what{
+    font-size: 2.2rem;
+    text-align: center;
+  }
+  .info-we-do p{
+    font-size: 1.5rem;
+    font-weight: 500;
+  }
+  .yellow-card {
+    position: relative;
+    right: 250px;
+    height: 500px;
+    width: 100%;
+  }
+  .more-info {
+    font-size: 20px;
+    margin-left: -60px;
+  }
+  .more-cards {
+    margin-left: -190px;
+  }
+  .card-more {
+    left: 180px;
+  }
+  .impact{
+    min-height: 210vh;
+  }
+
+  .card-impact {
+    position: relative;
+    margin-left:-18px;
+    top: 10px;
+
+}
+  .cards-impact-info {
+    height: 480px;
+    width: 93%;
+}
+.runnind{
+  top: -19px;
+
+}
+.impact-txt {
+  width: 460px;
+  font-size: 1.29rem;
+  margin-left: 20px;
+  margin-top: 40px;
+
+}
+.runnind p {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+.header {
+  box-sizing: border-box;
+  min-height: 100vh;
+  position: relative;
+  width: 100%;
+}
+.index {
+  position: absolute;
+  top: 30%;
+  left: 0;
+  min-height: 110vh;
+  width: 100%;
+  background: rgb(244, 240, 240);
+}
+.word h1 {
+  color: rgba(255, 0, 0, 0.751);
+  margin-bottom: 30px;
+  margin-left: 10px;
+  font-size: 23px;
+}
+.word {
+  margin-top: 1%;
+}
+.main-reg {
+  display: grid;
+  margin-left: 4%;
+  gap: 70px;
+}
+.word p {
+  font-size:1rem;
+  width: 500px;
+}
+.word button {
+  padding: 9px;
+  margin-left: 10px;
+}
+.gallery {
+  position: relative;
+  top: 0px;
+  margin-left: -80px;
+}
+.youtube {
+  min-height: 90vh;
+}
+
+.youtube h1 {
+  position: relative;
+  top: 190px;
+  left: 230px;
+  font-size: 50px;
+}
+
+.youtube h1 {
+  position: relative;
+  top: 130px;
+  left: 30px;
+  font-size: 40px;
+}
+.card-more {
+  max-height: 270px;
+  display: flex;
+  width: 90%;
+  gap: 10px;
+  position: relative;
+  left: 20px;
+  overflow-x: auto;
+}
+
+.card-framework-2 {
+  position: relative;
+  align-items: center;
+  min-width: 360px;
+  height: 270px;
+  background: yellow;
+}
+
+.work-together p {
+  font-size: 2rem;
+  text-transform: capitalize;
+  position: relative;
+  top: 90px;
+}
+.display-flex{
+  position: relative;
+  top: 240px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+.links-txt {
+  position: relative;
+  top: 80px;
+  font-size: 3rem;
+  padding-bottom: 80px;
+}
+.links li a {
+  font-size: 23px;
+}
+.leaderafrique-temp{
+
+  width: 100%;
+  margin-left: 0px;
+  height: 500px;
+  background: url(/img/cor1.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;  
+}
+.temt{
+      width:100%;
+      height: 500px;
+      margin-left: 0px;
+      background-position: center;
+      background-size:cover; 
+}
+.more-info-exe{
+  min-height: 0vh;
+  background: rgb(124 62 146);;
+padding-top: 0px;
+}
+.blog{
+  background:linear-gradient(rgba(0, 0, 0, 0.556),rgba(0, 0, 0, 0.583),rgba(0, 0, 0, 0.572)),url(/img/hero_4.png);
+}
+.blog-container{
+  position: relative;
+  top: 370px;
+  margin-left: 10px;
+}
+.permission{
+  margin-top: 20px;
+  font-size: 1rem;
+}
+.border-blog{
+  height: 50px;
+  width: 280px;
+}
+.mission{
+  margin-top: 20px;
+  font-size: 1.2rem;
+}
+.latest{
+  min-height: 180vh;
+}
+.play-cards{
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  top: 80px;
+  gap: 80px;
+  }
+  .play-cards-info p{
+    text-align: center;
+    position: relative;
+    bottom: -310px;
+    color: #7700ff;
+}
+.play{
+   margin-bottom: 0px;
+}
+.partn-dev{
+  padding-top: 60px;
+  margin-left: 20px;  
+}
+.partn-dev .pop{
+  font-size:1.5rem;
+  padding-top: 30px;
+}
+.parent-text p{
+  width: 90%;
+  font-size: 1.3rem;
+}
+  .list-parent li{
+    margin: 20px;
+    font-size: 1.1rem;
+}
+.ghana-youth{
+  padding-top: 20px;
+  margin-left: 0px;
+}
+.ghana-youth-1 p {
+  font-size: 1.9rem; 
+  margin-left: 20px;
+}
+.gyla-img{
+  margin-top: 30px;
+      height: 400px;
+      width:100%;
+      background: red;
+  }
+  .gyla-text p{
+font-size: 1.2rem;
+    margin-left: 30px;
+    padding-top: 10px;
+padding-bottom: 20px;
+}
+.outside{
+  font-size: 3rem;
+  font-family: var(--font-family);
+  margin-left: 20px;
+
+}
+.future-txt p{
+  width: 90%;
+  margin-left: 20px;
+  font-size: 1.3rem;
+}
+.image-future{
+  margin-left: 0px;
+width: 100%;
+}
+ 
+.onb-embed-responsive {
+  position: relative;
+  display: block;
+  height: 0;
+  padding: 0;
+  overflow: hidden;
+  margin-bottom: 1em;
+
+  .onb-embed-responsive-item {
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      width: 100%;
+      border: 0;
+  }
+}
+.onb-embed-responsive__4by3 {
+  padding-bottom: 75%;
+}
+.video-box{
+  width: 100%;
+  margin-left:0px;
+}
+.vlog{
+    padding-top: 30px;
+}
+.about-info{
+  font-size: 2.5rem;
+  position: relative;
+  top: 90px;
+  margin-left: 20px;
+  }
+  
+.video-info{
+  margin-bottom: 90px;
+  position: relative;
+  top: 4.5pc;
+  margin-left: 0px;
+}
+.about{
+  min-height: 70vh;
+
+}
+.refix-text{
+  width: 440px;
+  font-size: 1.3rem;
+  color: var(--text-color);
+}
+.refix-flex{
+  display: grid;
+  gap:30px;
+}
+.refix-info{
+  display: grid;
+  gap: 30px;
+  position: relative;
+  margin-left:10px;
+}
+
+.objective-p p{
+  font-size: 1.2rem;
+  width: 93%;
+  margin-left: 20px;
+  color: var(--text-color);
+  
+}
+.fix{
+  /* background: red; */
+}
+.left-p p{
+  font-size: 1.4rem;
+   width: 20px;
+   /* background: red; */
+}
+.right-p p{
+  font-size: 1.4rem;
+   width: 20px;
+   /* background: red; */
+}
+.objective-card-info{
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 140px;
+  padding-bottom: 4pc;
+}
+.value{
+  font-size: 10rem;
+  position: relative;
+  top: -80px;
+  left: -50px;
+  z-index: 1;
+  }
+.objective-card{
+  position: relative;
+  left:0px;
+  height: 220px;
+  width:440px;
+  top: -190px;
+  z-index: 1;
+}
+.objective-card p{
+  margin: 20px;
+  font-size: 1.6rem;
+  text-align: center;
+  justify-content: center;
+  position: relative;
+  top: 26px;
+}
+.council-card-container{
+  display: grid;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.display-flex{
+  position: relative;
+  top: 60px;
+  text-align: center;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+gap: 70px;
+}
+.finish-landing-page {
+  position: relative;
+  top: -0px;
+  min-height: 89vh;
+  background: #000;
+}
+.work-together p {
+  font-size: 2rem;
+  width: 70%;
+  margin-left: 17%;
+  position: relative;
+  top: 30px;
+}
+.main h1{
+  position: absolute;
+  top: 30%;
+  left: 0px;
+  text-align: center;
+  font-size: 2.3rem;
+  font-weight: bold;
+  color: #000000;
+}
+form{
+  margin-left: 0%;
+  margin-top: 70px;
+}
+form input{
+  display: block;
+  font-size:20px ;
+  padding: 12px;
+  margin: 10px;
+  height: 50px;
+  width: 497px;
+  border-radius: 6px;
+  border: none;
+ 
+
+}
+form .p input{
+  display: grid;
+  width: 440px;
+}
+.Forms{
+  height: 90vh;
+  background-color:indigo; 
+}
+.tx{
+  text-align: center;
+  position: relative;
+  bottom: 23rem;
+}
+
+.tx h1{
+  font-size: 2.5rem;
+}
+.tx span{
+  font-size: 3rem;
+}
+.summer-camp{
+  display: grid;
+  grid-template-columns: repeat(1, 550px);
+  grid-template-rows: repeat(7,540px);
+  gap: 12px;
+
+}
+.item12{
+  grid-row: 4/5;
+}
+.item7{
+  position: relative;
+  top: -83px;
+  height:580px;
+  width: 550px;
+}
+.GYLA{
+  display: grid;
+  grid-template-columns: repeat(1, 551px);
+  grid-template-rows: repeat(7,540px);
+  gap: 10px;
+  position: relative;
+  top: -150px;
+
+}
+.gov{
+  margin-top: 100px;
+  margin-left: 40px;
+  font-size: 40px;
+  /* font-family: var(--font-family); */
+  /* font-weight: 700; */
+  } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
